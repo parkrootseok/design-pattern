@@ -12,6 +12,7 @@
 ### etc.. ###
 .idea
 skeleton.iml
+out/
 
 ### macOS ###
 # General
